@@ -1,0 +1,30 @@
+{
+  "name": "build-desktop-application-electron",
+  "version": "1.0.0",
+  "description": "This is the GitHub repo to accompany the Egghead Course \"Build a desktop application with Electron\". Watch it on [egghead.io](https://egghead.io/courses/build-a-desktop-application-with-electron).",
+  "main": "index.js",
+  "scripts": {
+    "symlink": "node bin/symlink.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccnokes/build-a-desktop-app-with-electron.git"
+  },
+  "keywords": [],
+  "author": "Cameron Nokes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccnokes/build-a-desktop-app-with-electron/issues"
+  },
+  "homepage": "https://github.com/ccnokes/build-a-desktop-app-with-electron#readme",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "semver": "^5.3.0"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^1.6.10",
+    "electron-builder": "^18.6.2"
+  }
+}

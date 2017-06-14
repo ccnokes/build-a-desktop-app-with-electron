@@ -40,3 +40,17 @@ We'll go over:
 12. [Code sign your Electron application with electron-builder](https://egghead.io/lessons/javascript-code-sign-your-electron-application-with-electron-builder)
 
 13. [Ship updates to your Electron app with autoUpdater (Mac)](https://egghead.io/lessons/javascript-ship-updates-to-your-electron-app-with-autoupdater-mac)
+
+---
+
+## Usage
+```
+git clone https://github.com/ccnokes/build-a-desktop-app-with-electron.git
+```
+
+If you want to run each example, you may want to save disk space by symlinking the node_modules at the root of the project to each lesson. To do so:
+
+```
+npm install 
+npm run symlink
+```

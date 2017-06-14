@@ -1,0 +1,9 @@
+node_modules
+.vscode
+dist
+*.p12
+*.pfx
+*.log
+*.zip
+*.app
+*.dmg
