@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "electron": "^1.6.6"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [],
+  "author": "Cameron Nokes",
+  "license": "ISC"
+}
