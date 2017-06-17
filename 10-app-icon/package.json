@@ -1,0 +1,15 @@
+{
+  "name": "app-icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "make-icon": "electron-icon-maker -i build-assets/icon.png -o build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-icon-maker": "0.0.3"    
+  }
+}
