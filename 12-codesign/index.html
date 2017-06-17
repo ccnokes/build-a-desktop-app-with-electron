@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Hello World</title>
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        color: #333;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    
+    <h1>
+      You are running Electron version: <br />
+      <span id="version"></span>
+    </h1>
+  
+    <script>
+      require('./renderer.js');
+    </script>
+
+  </body>
+</html>
