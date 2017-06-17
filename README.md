@@ -41,6 +41,8 @@ We'll go over:
 
 13. [Ship updates to your Electron app with autoUpdater (Mac)](https://egghead.io/lessons/javascript-ship-updates-to-your-electron-app-with-autoupdater-mac)
 
+14. [Ship updates to your Electron app with autoUpdater (Windows)](https://egghead.io/lessons/javascript-ship-updates-to-your-electron-app-with-autoupdater-windows)
+
 ---
 
 ## Usage
