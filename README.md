@@ -1,5 +1,8 @@
 # Build a desktop application with Electron
 
+[![Mentioned in Awesome Electron](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-electron#videos)
+
+
 This is the GitHub repo to accompany the Egghead Course "Build a desktop application with Electron". Watch it on [egghead.io](https://egghead.io/courses/build-a-desktop-application-with-electron).
 
 ![](https://github.com/ccnokes/build-a-desktop-app-with-electron/raw/master/images/egghead-electron-logo.png)
